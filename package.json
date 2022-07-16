@@ -1,0 +1,20 @@
+{
+  "name": "sapiens-translation-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DecDuck/sapiens-translation-generator.git"
+  },
+  "author": "DecDuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DecDuck/sapiens-translation-generator/issues"
+  },
+  "homepage": "https://github.com/DecDuck/sapiens-translation-generator#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
